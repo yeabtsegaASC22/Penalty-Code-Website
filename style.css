@@ -1,0 +1,30 @@
+body{
+    background-color: grey;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes{
+    
+    justify-content: center;
+    background-color: lightgrey;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+img{
+    width: 400px;
+}
+
+#div1 {
+    display: flex;
+    max-width: 1000px;
+    align-items: center;
+}
+
+#div2 {
+    max-width: 1000px;
+}
